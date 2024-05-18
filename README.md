@@ -1,3 +1,8 @@
+#### This is a reinforcement-learning AI I designed to be able to play tetris.
+
+
+
+
 # TO RUN THE AI:
 
 #### 1) Copy the repo and cd into {wherever}/TetrisAI
