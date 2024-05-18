@@ -1,5 +1,6 @@
 #### This is a reinforcement-learning AI I designed to be able to play tetris.
 
+<img width="629" alt="Screenshot 2024-05-18 at 3 12 40 PM" src="https://github.com/iamashtonfox/TetrisAI/assets/140920863/eecf40a2-e987-4017-85c1-a351e31b297e">
 
 
 
