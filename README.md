@@ -8,11 +8,11 @@
 
 #### 1) Copy the repo and cd into {wherever}/TetrisAI
 
-## ON MAC:
+## ON MAC/LINUX:
 #### 2) In a terminal at the top-level of the file, run: "javac -cp "./lib/*:." @tetris.srcs" to compile
 #### 3) Run "java -cp "./lib/*:." edu.bu.tetris.Main -q src.pas.tetris.agents.TetrisQAgent -i ./params.model"
 
-## ON WINDOWS/LINUX:
+## ON WINDOWS:
 #### 2) In a terminal at the top-level of the file, run: "javac -cp "./lib/*;." @tetris.srcs" to compile
 #### 3) Run "java -cp "./lib/*;." edu.bu.tetris.Main -q src.pas.tetris.agents.TetrisQAgent -i ./params.model"
 
